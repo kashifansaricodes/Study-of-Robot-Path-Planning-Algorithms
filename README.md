@@ -1,4 +1,4 @@
-Robot Path Planning Algorithms
+# Robot Path Planning Algorithms
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f7094637-3b46-4d4f-a040-403a173a9703" width="45%">
