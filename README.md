@@ -1,10 +1,10 @@
 Robot Path Planning Algorithms
 
-![Screenshot from 2025-04-03 22-23-59](https://github.com/user-attachments/assets/f7094637-3b46-4d4f-a040-403a173a9703)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7094637-3b46-4d4f-a040-403a173a9703" width="45%">
+  <img src="https://github.com/user-attachments/assets/6c38987b-a759-40cc-95f8-a1450a06747d" width="45%">
+</p>
 
----
-
-![Screenshot from 2025-04-03 22-20-59](https://github.com/user-attachments/assets/6c38987b-a759-40cc-95f8-a1450a06747d)
 
 
 ## Overview
